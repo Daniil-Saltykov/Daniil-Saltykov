@@ -30,3 +30,6 @@ if sign == "//":
 if sign == "*":
     print(mult(a, b))
     calculator()
+
+else:
+    print("спасибо за использование нашего калькулятора")
